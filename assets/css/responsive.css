@@ -192,6 +192,9 @@
     .footer{
         margin: 0;
     }
+    .footer-list{
+        flex-wrap: wrap;
+    }
     .footer-item-content{
         padding: 12px;
     }
